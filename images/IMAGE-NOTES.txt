@@ -1,0 +1,1 @@
+No local image files are bundled. Pages load illustrative photos from images.unsplash.com with auto=format, fit=crop, width and quality parameters for responsive compressed delivery. Replace with licensed or restaurant-approved images if needed.
